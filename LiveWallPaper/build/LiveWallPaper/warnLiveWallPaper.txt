@@ -1,0 +1,31 @@
+missing module named resource - imported by posix, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py
+missing module named posix - imported by os, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py
+missing module named 'org.python' - imported by pickle, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py
+missing module named _winreg - imported by platform, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py
+missing module named java - imported by platform, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py
+missing module named 'java.lang' - imported by platform, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py
+missing module named termios - imported by tty, getpass, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py
+missing module named grp - imported by shutil, tarfile, pathlib, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, pathlib, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py
+missing module named org - imported by copy, C:\Users\Administrator\Desktop\Python\LiveWallPaper.py
+missing module named Tkinter - imported by PIL.ImageTk
+missing module named olefile - imported by PIL.FpxImagePlugin, PIL.MicImagePlugin
+missing module named 'PySide.QtCore' - imported by PIL.ImageQt
+missing module named 'PyQt4.QtCore' - imported by PIL.ImageQt
+missing module named 'PyQt5.QtCore' - imported by PIL.ImageQt
+missing module named cffi - imported by PIL.Image, PIL.PyAccess, PIL.ImageTk
+missing module named __builtin__ - imported by PIL.Image
+missing module named iconv_codec - imported by bs4.dammit
+missing module named chardet - imported by bs4.dammit
+missing module named cchardet - imported by bs4.dammit
+missing module named lxml - imported by bs4.builder._lxml
+missing module named 'html5lib.treebuilders' - imported by bs4.builder._html5lib
+missing module named 'html5lib.constants' - imported by bs4.builder._html5lib
+missing module named html5lib - imported by bs4.builder._html5lib
+missing module named _scproxy - imported by urllib.request
